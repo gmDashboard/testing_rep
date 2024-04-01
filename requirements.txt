@@ -1,1 +1,7 @@
 voila
+matplotlib
+numpy
+pandas
+re
+seaborn
+ipywidgets
